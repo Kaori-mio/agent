@@ -6,7 +6,7 @@
 感谢以下人员对本仓库做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了。如果你希望被添加到这个名单中，请与我联系。
 
 <a href="https://github.com/chgaowei">
-    <img src="images/商务头像.jpg" width="50px" alt="常高伟" title="常高伟">
+    <img src="https://github.com/chgaowei.png" width="50px" alt="常高伟" title="常高伟">
 </a>
 <a href="https://github.com/orgs/agent-network-protocol/people/jlwaugh">
     <img src="https://github.com/jlwaugh.png" width="50px" alt="詹姆斯·沃" title="詹姆斯·沃">
