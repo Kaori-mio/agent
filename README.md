@@ -3,7 +3,7 @@
 
 ### 致谢
 
-感谢以下人员对本仓库做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了。如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。
+感谢以下人员对本仓库做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了。如果你希望被添加到这个名单中，请与我联系。
 
 <a href="https://mp.weixin.qq.com/s/qpLUIslexjPytzIew65TEw">
     <img src="images/商务头像.jpg" width="50px" alt="常高伟" title="常高伟">
@@ -38,9 +38,6 @@
 <a href="https://github.com/beaverQXX">
     <img src="https://github.com/beaverQXX.png" width="50px" alt="秦秀昕" title="秦秀昕">
 </a>
-<a href="#">
-    <img src="images/mmexport1750770538704.jpg" width="50px" alt="张泽宇" title="张泽宇">
-</a>
 <a href="https://github.com/CBBtv">
     <img src="https://github.com/CBBtv.png" width="50px" alt="陈彬彬" title="陈彬彬">
 </a>
@@ -52,9 +49,6 @@
 </a>
 <a href="https://github.com/Aas-ee">
     <img src="https://github.com/Aas-ee.png" width="50px" alt="朱文港" title="朱文港">
-</a>
-<a href="#">
-    <img src="images/default-avatar.png" width="50px" alt="黄喆" title="黄喆">
 </a>
 <a href="http:// https://b23.tv/8s0wBHl">
     <img src="images/mmexport1750849321898.png" width="50px" alt="林以笙" title="林以笙">
